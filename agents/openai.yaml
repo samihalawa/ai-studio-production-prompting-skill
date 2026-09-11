@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Studio Production Prompting"
+  short_description: "Create autonomous AI Studio app-building prompts"
+  default_prompt: "Use $ai-studio-production-prompting-skill to turn my complete product context into one compact, self-contained, production-oriented prompt ready to paste into Google AI Studio Build."
